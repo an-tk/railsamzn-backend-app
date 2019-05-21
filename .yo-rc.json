@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:an-tk/railsamzn-backend-app.git",
+    "project_destination_path": "railsamzn-backend-app",
+    "application_name": "railsamzn",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
